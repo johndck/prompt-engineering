@@ -23,7 +23,8 @@ OpenAI prompt engineering [https://platform.openai.com/docs/guides/prompt-engine
 
 Anthropic prompt engineering [https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview]
 
-Google list of reads:
+Google list of reads:  
+
 [https://cloud.google.com/blog/transform/how-to-be-a-better-prompt-engineer]  
 
 [https://developers.google.com/machine-learning/resources/prompt-eng]  
