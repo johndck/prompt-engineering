@@ -1,2 +1,7 @@
-# prompt-engineering
-an inventory of resources for understanding the art and science of prompt engineering
+# Inventory of prompt engineering learning resources
+
+## Online courses
+
+### start here:
+
+Learn prompting [https://learnprompting.org] 
