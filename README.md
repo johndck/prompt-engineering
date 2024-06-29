@@ -15,6 +15,10 @@ Quite a random course but contains useful material.
 ChatGPT prompt engineering [https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers]
 Not watched this yet as of 28 June 2024.
 
+Recent addition from Microsoft  
+[https://github.com/microsoft/generative-ai-for-beginners/tree/main?WT.mc_id=academic-105485-koreyst]
+
+
 ### Reading resources
 
 The prompt engineering guide [https://www.promptingguide.ai]
