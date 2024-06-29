@@ -34,6 +34,9 @@ OpenAI prompt engineering [https://platform.openai.com/docs/guides/prompt-engine
 
 Anthropic prompt engineering [https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview]
 
+Prompt chaining - [https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/chain-prompts]  
+
+
 Google list of reads:  
 
 [https://cloud.google.com/blog/transform/how-to-be-a-better-prompt-engineer]  
