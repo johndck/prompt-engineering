@@ -22,6 +22,9 @@ Not watched this yet as of 28 June 2024.
 Recent addition from Microsoft  
 [https://github.com/microsoft/generative-ai-for-beginners/tree/main?WT.mc_id=academic-105485-koreyst]
 
+Best practices note from OpenAI  
+[https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api]  
+
 
 ### Reading resources
 
@@ -39,6 +42,8 @@ Google list of reads:
 
 [https://cloud.google.com/discover/what-is-prompt-engineering]
 
+Prompt examples  
+[https://www.promptingguide.ai/introduction/examples]  
 
 
 
