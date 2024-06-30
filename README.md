@@ -42,7 +42,9 @@ Current range of prompting techniques:
 
 Learn prompting [https://learnprompting.org]   
 
-Learn prompting II [https://promptengineering.org]
+Learn prompting II [https://promptengineering.org]  
+
+Prompt pack [https://brightpool.notion.site/ChatGPT-Prompt-Pack-ddaaee466a434527a58a4d6fc3027fb5]
 
 Recommend doing both the intro and the advanced prompting course.
 Builds a good foundation.
