@@ -4,6 +4,34 @@ Remember throughout all of this learning the most fundamental point to keep fron
 
 Over time, the error rate of getting this prediction nearly correct will go down, but it will always depend on the underlying model, the dataset it was trained on, our ability to generate the correct prompt and then optimising the prompt to get the most correct answer.
 
+When we think about prompt engineering, consider the range of capabilities offered by LLMs and contrast that with the prompt engineering techniques available. 
+
+Look at the current range of textual LLM capabilities:
+
+1. Natural Language Processing (NLP): Enables AI systems to understand, interpret, and generate human language in a meaningful way.
+
+2. Information Retrieval: Allows AI systems to search for and extract relevant information from large datasets or knowledge bases.
+
+3. Question Answering: Enables AI systems to understand and provide accurate responses to user queries.
+
+4. Text Generation: Allows AI systems to generate coherent, contextually relevant text based on given prompts or input.
+
+5. Text Summarization: Enables AI systems to condense long pieces of text into shorter, more concise summaries while retaining key information.
+
+6. Learning Tools: AI systems can be used to create interactive learning experiences and provide personalized feedback to learners.
+
+7. Chatbots & Virtual Assistants: AI-powered conversational agents that can engage in human-like dialogue and assist with various tasks.
+
+8. Machine Translation: Enables AI systems to automatically translate text or speech from one language to another.
+
+9. Conversation: AI systems can engage in context-aware, multi-turn conversations that simulate human-like communication.
+
+10. Code Generation: AI systems can generate functional code snippets or complete programs based on natural language instructions.
+
+11. Reasoning: AI systems can perform logical reasoning tasks, such as drawing inferences, making analogies, and solving problems.
+
+
+
 ## Online courses
 
 ### start here:
