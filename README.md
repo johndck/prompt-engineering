@@ -6,7 +6,7 @@ Over time, the error rate of getting this prediction nearly correct will go down
 
 When we think about prompt engineering, consider the range of capabilities offered by LLMs and contrast that with the prompt engineering techniques available. 
 
-Look at the current range of textual LLM capabilities:
+Current range of textual LLM capabilities:
 
 1. Natural Language Processing (NLP): Enables AI systems to understand, interpret, and generate human language in a meaningful way.
 
@@ -29,6 +29,10 @@ Look at the current range of textual LLM capabilities:
 10. Code Generation: AI systems can generate functional code snippets or complete programs based on natural language instructions.
 
 11. Reasoning: AI systems can perform logical reasoning tasks, such as drawing inferences, making analogies, and solving problems.
+
+
+### Placeholder 
+Current range of prompting techniques:
 
 
 
