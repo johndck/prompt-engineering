@@ -8,7 +8,9 @@ Over time, the error rate of getting this prediction nearly correct will go down
 
 ### start here:
 
-Learn prompting [https://learnprompting.org] 
+Learn prompting [https://learnprompting.org]   
+
+Learn prompting II [https://promptengineering.org]
 
 Recommend doing both the intro and the advanced prompting course.
 Builds a good foundation.
