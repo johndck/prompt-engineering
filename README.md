@@ -46,6 +46,8 @@ Learn prompting II [https://promptengineering.org]
 
 Prompt pack [https://brightpool.notion.site/ChatGPT-Prompt-Pack-ddaaee466a434527a58a4d6fc3027fb5]
 
+Learning prompting III [https://learn.codesignal.com/preview/course-paths/16/prompt-engineering-for-everyone]
+
 Recommend doing both the intro and the advanced prompting course.
 Builds a good foundation.
 
