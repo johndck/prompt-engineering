@@ -50,6 +50,8 @@ Prompt pack [https://brightpool.notion.site/ChatGPT-Prompt-Pack-ddaaee466a434527
 
 Learning prompting III [https://learn.codesignal.com/preview/course-paths/16/prompt-engineering-for-everyone]
 
+Roadmap  [https://roadmap.sh/prompt-engineering]
+
 Recommend doing both the intro and the advanced prompting course.
 Builds a good foundation.
 
@@ -87,6 +89,9 @@ Google list of reads:
 
 Prompt examples  
 [https://www.promptingguide.ai/introduction/examples]  
+
+For Financial advice and implications of LLMs for financial advice  
+[https://mit-genai.pubpub.org/pub/l89uu140/release/2]
 
 
 
