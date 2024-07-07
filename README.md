@@ -93,6 +93,18 @@ Prompt examples
 For Financial advice and implications of LLMs for financial advice  
 [https://mit-genai.pubpub.org/pub/l89uu140/release/2]
 
+### Useful blogs to follow
+
+1 - [https://huyenchip.com/blog/]
+2 - [https://eugeneyan.com/]
+3 - [https://sebastianraschka.com/blog/]
+4 - [https://www.philschmid.de/]
+5 - [https://jxnl.co/writing/archive/2024/]
+6 - [https://hamel.dev/]
+7 - [https://simonwillison.net/]
+8 - [https://osanseviero.github.io/hackerllama/blog/]
+9 - [https://lilianweng.github.io/]
+
 
 
 
