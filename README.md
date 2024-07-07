@@ -95,8 +95,8 @@ For Financial advice and implications of LLMs for financial advice
 
 ### Useful blogs to follow
 
-1 - [https://huyenchip.com/blog/]
-2 - [https://eugeneyan.com/]
+1 - [https://huyenchip.com/blog/]  
+2 - [https://eugeneyan.com/]  
 3 - [https://sebastianraschka.com/blog/]
 4 - [https://www.philschmid.de/]
 5 - [https://jxnl.co/writing/archive/2024/]
