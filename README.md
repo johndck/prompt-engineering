@@ -100,10 +100,12 @@ For Financial advice and implications of LLMs for financial advice
 3 - [https://sebastianraschka.com/blog/]  
 4 - [https://www.philschmid.de/]  
 5 - [https://jxnl.co/writing/archive/2024/]  
-6 - [https://hamel.dev/]
-7 - [https://simonwillison.net/]
-8 - [https://osanseviero.github.io/hackerllama/blog/]
-9 - [https://lilianweng.github.io/]
+6 - [https://hamel.dev/]  
+7 - [https://simonwillison.net/]  
+8 - [https://osanseviero.github.io/hackerllama/blog/]  
+9 - [https://lilianweng.github.io/]  
+10 - [https://ashe.ai/]
+
 
 
 
